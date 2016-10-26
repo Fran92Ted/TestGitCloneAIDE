@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MyTestGit</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">MyMetronomo</string>
+    <string name="Bpm">Bpm</string>
 
 </resources>

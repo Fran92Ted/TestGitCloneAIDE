@@ -1,10 +1,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
+	androi
     android:layout_height="match_parent"
     android:gravity="center">
 
     <EditText
-        android:hint="@string/hello_world"
+        android:hint="@string/Bpm"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 	<Button
@@ -12,5 +13,11 @@
 		android:layout_height="wrap_content"
 		android:text="play"
 		android:onClick="plays"/>
+	<Button
+		android:id
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:text="stop"
+	android:onClick="plays"/>
 
 </LinearLayout>
